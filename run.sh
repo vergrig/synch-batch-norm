@@ -1,0 +1,1 @@
+torchrun --nproc_per_node 4 ddp_cifar100.py
